@@ -1,0 +1,8 @@
+{
+  int n=1000;
+  Random3=rnd;
+  rnd.SetSeed(123456789)
+    for(int i=0;i<n;i++){
+      double phi=2*TMath::Pi().rnd.Rndm();
+      double cosine=2*rnd.Rndm()-1;
+      double the=acos(costhe);
